@@ -1,5 +1,5 @@
 import "./App.css"
-import HeroSection from "./compnents/Herosection";
+import HeroSection from "./compnents/herosection";
 import Navigation from "./compnents/navigation";
 
 const App = () => {
