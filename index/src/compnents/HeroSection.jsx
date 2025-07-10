@@ -1,4 +1,4 @@
-const HeroSection=()=>{
+const Herosection=()=>{
     return(
     <main className="hero container">
         <div className="hero-content">
@@ -24,4 +24,4 @@ const HeroSection=()=>{
     )
     
 }
-export default HeroSection;
+export default Herosection;
